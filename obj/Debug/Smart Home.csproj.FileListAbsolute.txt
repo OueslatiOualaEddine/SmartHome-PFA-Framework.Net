@@ -1,0 +1,21 @@
+C:\Users\DELL\Desktop\PFA\Framework C#\Smart Home\bin\Debug\Smart Home.exe.config
+C:\Users\DELL\Desktop\PFA\Framework C#\Smart Home\bin\Debug\Smart Home.exe
+C:\Users\DELL\Desktop\PFA\Framework C#\Smart Home\bin\Debug\Smart Home.pdb
+C:\Users\DELL\Desktop\PFA\Framework C#\Smart Home\obj\Debug\Smart Home.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\PFA\Framework C#\Smart Home\obj\Debug\Smart Home.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\PFA\Framework C#\Smart Home\obj\Debug\Smart_Home.Properties.Resources.resources
+C:\Users\DELL\Desktop\PFA\Framework C#\Smart Home\obj\Debug\Smart Home.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\PFA\Framework C#\Smart Home\obj\Debug\Smart Home.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\PFA\Framework C#\Smart Home\obj\Debug\Smart Home.exe
+C:\Users\DELL\Desktop\PFA\Framework C#\Smart Home\obj\Debug\Smart Home.pdb
+C:\Users\DELL\Desktop\PFA\Framework C#\Smart Home\obj\Debug\Smart_Home.Entrer.resources
+C:\Users\DELL\Desktop\PFA\Framework C#\Smart Home\obj\Debug\Smart_Home.Connexion.resources
+C:\Users\DELL\Desktop\PFA\Framework C#\Smart Home\obj\Debug\Smart_Home.Creation.resources
+C:\Users\DELL\Desktop\PFA\Framework C#\Smart Home\bin\Debug\MySql.Data.dll
+C:\Users\DELL\Desktop\PFA\Framework C#\Smart Home\bin\Debug\Google.Protobuf.dll
+C:\Users\DELL\Desktop\PFA\Framework C#\Smart Home\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DELL\Desktop\PFA\Framework C#\Smart Home\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\DELL\Desktop\PFA\Framework C#\Smart Home\bin\Debug\Renci.SshNet.dll
+C:\Users\DELL\Desktop\PFA\Framework C#\Smart Home\bin\Debug\MySql.Data.xml
+C:\Users\DELL\Desktop\PFA\Framework C#\Smart Home\obj\Debug\Smart Home.csproj.CopyComplete
+C:\Users\DELL\Desktop\PFA\Framework C#\Smart Home\obj\Debug\Smart_Home.Profile.resources
